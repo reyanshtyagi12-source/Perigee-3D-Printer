@@ -15,3 +15,6 @@ It uses stepper motors to move the entire gantry up and down with further motors
 
 ## Credits
 I would not be able to do this without the amazing community of diy 3d printers who helped me understand how I could get my project to work. I especially owe my thanks to LDO motors who designed the Apogee Toolhead, and adms (https://www.printables.com/@adms), who adapted this design to create the Apogee FAT. It's an amazing design that served as the backbone of my project.
+
+## BOM
+<img width="2876" height="1152" alt="B32F41B4-6ADA-4F7C-8FA7-840989FD8914" src="https://github.com/user-attachments/assets/91ffca39-b129-4388-a1a9-b5c2f05d7db1" />
